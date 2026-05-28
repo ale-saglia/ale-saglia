@@ -1,16 +1,17 @@
-## Hi there 👋
+# Alessandro Saglia
 
-<!--
-**ale-saglia/ale-saglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring the invisible architectures where code meets regulation.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://insight.ale-saglia.com
+- https://cv.ale-saglia.com
+- https://ale-saglia.com
+
+## Interests
+
+- Digital governance
+- Public digital infrastructure
+- AI accountability
+- Self-hosting & homelab
+- GitOps
